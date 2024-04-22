@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.135fb986.chunk.css",
+    "main.js": "/static/js/main.f1a3568f.chunk.js",
+    "main.js.map": "/static/js/main.f1a3568f.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a1b9b0b5.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a1b9b0b5.js.map",
+    "static/js/2.221a553e.chunk.js": "/static/js/2.221a553e.chunk.js",
+    "static/js/2.221a553e.chunk.js.map": "/static/js/2.221a553e.chunk.js.map",
+    "static/js/3.7426b29a.chunk.js": "/static/js/3.7426b29a.chunk.js",
+    "static/js/3.7426b29a.chunk.js.map": "/static/js/3.7426b29a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a0fa8f0001e15ba4f50f9d146772be00.js": "/precache-manifest.a0fa8f0001e15ba4f50f9d146772be00.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.135fb986.chunk.css.map": "/static/css/main.135fb986.chunk.css.map",
+    "static/media/LA IDEALLOGO 1.png": "/static/media/LA IDEALLOGO 1.4a5a1db5.png",
+    "static/media/LA IDEALLOGO 2.png": "/static/media/LA IDEALLOGO 2.ecd4cd17.png"
+  }
+}
