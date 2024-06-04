@@ -1,19 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.135fb986.chunk.css",
-    "main.js": "/static/js/main.f1a3568f.chunk.js",
-    "main.js.map": "/static/js/main.f1a3568f.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a1b9b0b5.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a1b9b0b5.js.map",
-    "static/js/2.221a553e.chunk.js": "/static/js/2.221a553e.chunk.js",
-    "static/js/2.221a553e.chunk.js.map": "/static/js/2.221a553e.chunk.js.map",
-    "static/js/3.7426b29a.chunk.js": "/static/js/3.7426b29a.chunk.js",
-    "static/js/3.7426b29a.chunk.js.map": "/static/js/3.7426b29a.chunk.js.map",
+    "main.css": "/static/css/main.6dacf379.css",
+    "main.js": "/static/js/main.9aa244e5.js",
+    "static/js/453.0752497c.chunk.js": "/static/js/453.0752497c.chunk.js",
+    "static/media/fondo2.webp": "/static/media/fondo2.e970fbd5aae8edd282e0.webp",
+    "static/media/nuggets.jpeg": "/static/media/nuggets.13d8310b4dbc2e9c2e95.jpeg",
+    "static/media/21-CUADRIL-300x300.jpeg": "/static/media/21-CUADRIL-300x300.7f3e581103f497d3de44.jpeg",
+    "static/media/LA IDEALLOGO 1.png": "/static/media/LA IDEALLOGO 1.7079a86fc5fe7392c765.png",
+    "static/media/69-BONDIOLA-KG-300x300.jpg": "/static/media/69-BONDIOLA-KG-300x300.022ad729e133891eb6a9.jpg",
+    "static/media/83-MOLLEJA-DE-DE-GOLLADURA-300x300.jpg": "/static/media/83-MOLLEJA-DE-DE-GOLLADURA-300x300.b009d44209375a76b985.jpg",
+    "static/media/62-SUPREMA-1-300x300.jpg": "/static/media/62-SUPREMA-1-300x300.3aabaa476134ebe2d9bb.jpg",
+    "static/media/combo-2-300x300.jpg": "/static/media/combo-2-300x300.8d6b94ef7a3dfc997b4c.jpg",
     "index.html": "/index.html",
-    "precache-manifest.a0fa8f0001e15ba4f50f9d146772be00.js": "/precache-manifest.a0fa8f0001e15ba4f50f9d146772be00.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.135fb986.chunk.css.map": "/static/css/main.135fb986.chunk.css.map",
-    "static/media/LA IDEALLOGO 1.png": "/static/media/LA IDEALLOGO 1.4a5a1db5.png",
-    "static/media/LA IDEALLOGO 2.png": "/static/media/LA IDEALLOGO 2.ecd4cd17.png"
-  }
+    "main.6dacf379.css.map": "/static/css/main.6dacf379.css.map",
+    "main.9aa244e5.js.map": "/static/js/main.9aa244e5.js.map",
+    "453.0752497c.chunk.js.map": "/static/js/453.0752497c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6dacf379.css",
+    "static/js/main.9aa244e5.js"
+  ]
 }
