@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b03a9ad7.css",
-    "main.js": "/static/js/main.7ce66ed2.js",
+    "main.css": "/static/css/main.23eb24c2.css",
+    "main.js": "/static/js/main.dcd17621.js",
     "static/js/453.10968be7.chunk.js": "/static/js/453.10968be7.chunk.js",
     "static/media/fondo2.webp": "/static/media/fondo2.e970fbd5aae8edd282e0.webp",
     "static/media/nuggets.jpeg": "/static/media/nuggets.13d8310b4dbc2e9c2e95.jpeg",
@@ -21,6 +21,7 @@
     "static/media/p2.jpg": "/static/media/p2.56961d9e8ee2968e3463.jpg",
     "static/media/5.jpg": "/static/media/5.0aa67ca04d5d7b46023b.jpg",
     "static/media/8.jpeg": "/static/media/8.8a15ad325e2581cccccd.jpeg",
+    "static/media/c3.jpg": "/static/media/c3.a791284c7f5c4e0dce99.jpg",
     "static/media/29.jpg": "/static/media/29.1016d55b4fd5042e687a.jpg",
     "static/media/21.jpg": "/static/media/21.6d09fbdfb824dee30d37.jpg",
     "static/media/17.jpg": "/static/media/17.33b046f632a498c573b0.jpg",
@@ -28,14 +29,20 @@
     "static/media/34.jpg": "/static/media/34.645b26a6d87e58252721.jpg",
     "static/media/3.jpeg": "/static/media/3.ff02a534f531bfddb878.jpeg",
     "static/media/32.jpg": "/static/media/32.113a5f67dd183778edec.jpg",
+    "static/media/c4.jpg": "/static/media/c4.b8989c820a4102fecdd1.jpg",
     "static/media/31.jpg": "/static/media/31.fdc1aea7adf23658e573.jpg",
     "static/media/69-BONDIOLA-KG-300x300.jpg": "/static/media/69-BONDIOLA-KG-300x300.022ad729e133891eb6a9.jpg",
+    "static/media/c1.jpg": "/static/media/c1.022ad729e133891eb6a9.jpg",
     "static/media/19.jpeg": "/static/media/19.a04803faddf90dfa9f57.jpeg",
     "static/media/p1.jpg": "/static/media/p1.c228ffdd171d761e279e.jpg",
+    "static/media/c6.jpg": "/static/media/c6.6e70cc25bd342f9d3676.jpg",
+    "static/media/c5.jpg": "/static/media/c5.ce7317976d40ab68659d.jpg",
     "static/media/9.jpg": "/static/media/9.da7f56037346d398711e.jpg",
+    "static/media/c7.jpg": "/static/media/c7.038968ff209ff213e4d4.jpg",
     "static/media/83-MOLLEJA-DE-DE-GOLLADURA-300x300.jpg": "/static/media/83-MOLLEJA-DE-DE-GOLLADURA-300x300.b009d44209375a76b985.jpg",
     "static/media/36.jpg": "/static/media/36.b4779ae17f35ec82b0dc.jpg",
     "static/media/28.jpg": "/static/media/28.4e2a7f90e17e78a43360.jpg",
+    "static/media/c2.jpg": "/static/media/c2.1d334ab93a9e1a3c8c8d.jpg",
     "static/media/25.jpg": "/static/media/25.07c4891ad6551996c3ef.jpg",
     "static/media/11.jpg": "/static/media/11.636e0a9c551ef4d8c6eb.jpg",
     "static/media/30.jpg": "/static/media/30.c09cb7ddd5ba0d216e5e.jpg",
@@ -52,12 +59,12 @@
     "static/media/p5.jpg": "/static/media/p5.8fbab27cacbba497f0c1.jpg",
     "static/media/24.jpg": "/static/media/24.89e2057e32bae6c8b8e9.jpg",
     "index.html": "/index.html",
-    "main.b03a9ad7.css.map": "/static/css/main.b03a9ad7.css.map",
-    "main.7ce66ed2.js.map": "/static/js/main.7ce66ed2.js.map",
+    "main.23eb24c2.css.map": "/static/css/main.23eb24c2.css.map",
+    "main.dcd17621.js.map": "/static/js/main.dcd17621.js.map",
     "453.10968be7.chunk.js.map": "/static/js/453.10968be7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b03a9ad7.css",
-    "static/js/main.7ce66ed2.js"
+    "static/css/main.23eb24c2.css",
+    "static/js/main.dcd17621.js"
   ]
 }
